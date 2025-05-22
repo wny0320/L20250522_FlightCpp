@@ -13,5 +13,6 @@ UCLASS()
 class L20250522_FLIGHTCPP_API AMyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+public:
 	AMyGameModeBase();
 };
